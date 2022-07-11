@@ -28,6 +28,7 @@
 		<h2> Presentation </h2>
 
 		<p>Powerpoint - <a href="https://docs.google.com/presentation/d/1GWU87TftD4hF0uZhiRAMbuktqCNl0DvSNSoEejERYKI/edit?usp=sharing" target="_blank">Link</a></p>
+		<p>Github - <a href="https://github.com/McDiamund/jeopardy-project" target="_blank">Link</a></p>
 		</div>
 	</body>
 
