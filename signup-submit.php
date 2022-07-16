@@ -20,7 +20,7 @@ $userTilesData = $username . "=" . "000000000000000000000000000000";
 
 	
 	<h3 class="dindin" style="padding-top: 10%; width: 100%; text-align: center;"> Sign up complete! Return to login and sign in to play.</h3>
-	<button class="button" style="width: 10%; margin-left: 45%; height: 30px; background-color: black; position: inherit;"><a href="index.php"><span> Home </span></a></button>
+	<button class="button" style="width: 10%; margin-left: 45%; height: 30px; background-color: black; position: inherit; margin-top: 1%;"><a style="color: white;" href="index.php"><span> Home </span></a></button>
 	
 	
 		

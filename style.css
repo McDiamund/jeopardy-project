@@ -299,6 +299,13 @@ a:visited {
     font-family: DINPro;
 }
 
+#bad-login {
+    font-family: DINPro;
+    color: red;
+    width: 100%;
+    text-align: center;
+}
+
 /* Jeopardy Game */
 
 #board {
